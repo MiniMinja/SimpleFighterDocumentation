@@ -1,5 +1,10 @@
 *
+!*.md
 
 !.gitignore
 
-!InputLookup.md
+!Assets
+Assets/*
+!Assets/Scripts
+Assets/Scripts/*
+!Assets/Scripts/Character
