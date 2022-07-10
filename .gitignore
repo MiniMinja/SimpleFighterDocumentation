@@ -1,4 +1,6 @@
 *
+
+!*.cs
 !*.md
 
 !.gitignore
@@ -8,3 +10,5 @@ Assets/*
 !Assets/Scripts
 Assets/Scripts/*
 !Assets/Scripts/Character
+!Assets/Scripts/Character/Detector
+!Assets/Scripts/Character/Movement
