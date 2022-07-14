@@ -2,4 +2,4 @@
 
 - [InputLookup](/Assets/Scripts/Character/InputLookup.md)
 - Movement
-    - [CM_Manager](/Assets/Scripts/Character/Movement/CM_Manager.md)
+    - [Hor_CM_Handler](/Assets/Scripts/Character/Movement/Hor_CM_Handler.md)
